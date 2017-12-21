@@ -14,7 +14,7 @@ You have two options to complete parts 1-3 (Install, Editors, Command Line).
  * Option 1 (_Beginner_):  Edit markdown files directly on GitHub.  (Follow the instructions below).  
  * Option 2 (_Intermediate_): Edit files using `git pull` and `git push`.  
     - Follow "Set Up Repo on GitHub" [Step 4: Git](04-git.md)
-    - Watch the 10-minute video on [10-minute video, *Getting Started with Git*](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID]) 
+    - Watch the 10-minute video on [10-minute video, *Getting Started with Git*](https://vimeo.com/178481263?mc_cid=06d951b22e&mc_eid=[UNIQID])
 
 The process below is designed to be accessible to anyone regardless of background in `git`.  
 
@@ -43,7 +43,7 @@ Click the **Fork** button at the upper right hand corner of the page:
 
 This makes a personal copy of the repository that you can edit. Your forked copies will show up in your *Repositories* section.
 
-This repository is `thisismetis/dsp`. Your forked copy will be `your_github_user_name/dsp`.
+This repository is `thisismetis/dsp`. Your forked copy will be `aelhusseini/dsp`.
 
 
 ## Step 4: Edit your fork  
@@ -68,5 +68,4 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
+:grin:
