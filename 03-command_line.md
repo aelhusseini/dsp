@@ -20,7 +20,16 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > pwd
+    mkdir
+    rm
+    touch xx.txt
+    rm xx.txt
+    mv
+    ls -a
+    mv xx.txt mydirectory
+    clear
+    grep
 
 ---
 
@@ -35,7 +44,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > ls: list files in directory
+    ls -a: list files with -a option to show hidden files
+    ls -l: list files with -l option to show all details
+    ls -lh: list files with -l option and -h option to display files size in human readable formats (1k, 2M, etc)
+    ls -lah: list files -l, -a, and -h options
+    ls -t: list files with -t option to sort by modification time (newest first)
+    ls -Glp: list files with -l option, -G option to list in a long listing without group names (folders highlighted, files not etc..)
 
 ---
 
@@ -43,7 +58,7 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > -a, -l, -G, -R, -d
 
 ---
 
@@ -51,7 +66,9 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > xargs builds an execution pipeline from standard input, one example is:
+echo 'one two three' | xargs mkdir
+xargs takes standard input and pipes it to xargs to create 3 folders
 
  
 
